@@ -6,8 +6,8 @@ Dockerfile to have a development environment for Golang
 
 Each subfolder has own version. Main tag is: `giuseppemorelli/devbox-golang`, then you can choose the tag version from this list
 
-| Version | Subfolder      | Docker Hub tag                     |
-|---------|----------------|------------------------------------|
-| GO 1.20 | php-5.6-debian | giuseppemorelli/devbox-golang:1.20 |
+| Version | Subfolder          | Docker Hub tag                     |
+|---------|--------------------|------------------------------------|
+| GO 1.20 | golang-1.20-debian | giuseppemorelli/devbox-golang:1.20 |
 
 or check directly on [Docker Hub](https://hub.docker.com/repository/docker/giuseppemorelli/devbox-golang)
